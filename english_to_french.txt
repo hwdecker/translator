@@ -1,0 +1,59 @@
+Hello	Bonjour	
+Good morning	Bonjour	
+Welcome	Bienvenue	
+Miss	Mademoiselle	
+Mister	Monsieur	
+Mistress	Madame	
+Pardon	Pardon	
+Excuse me	excusez-moi	
+English	Anglais	
+French	Fran�ais	
+Do you speak	Parlez-vous	
+I do not speak	Je ne parle pas	
+See you later	� tout � l�heure	
+Thank you very much	Merci/Merci beaucoup	
+Goodbye	Au revoir	
+You�re welcome	De rien	
+Can you help me	Pourriez-vous m�aider	
+I do not understand	Je ne comprends pas	
+Speak slowly	Parlez lentement	
+Please	Pla�t	
+Me	Je	
+I	Je	
+You	Vous	
+You	Tu	
+Go	Aller	
+Going	Vais	
+Come	Vien	
+Come	Venue	
+Arrive	Arriver	
+Nous	We	
+They 	Elles	
+She	Illes	
+He	Il	
+Love	Amour	
+Love	Aime	
+Is	Est	
+Who	Qui	
+It is	C'est	
+What is	Quel est	
+Car	Voiture	
+Home	Maison	
+Friend	Amie	
+My	Ma (female)	
+My	Mon (male)	
+Man	Homme	
+Woman	Femme	
+Boy	gar�on	
+Girl	fille	
+Child	enfant	
+Sister	s�ur	
+Brother	fr�re	
+Cousin	cousine (female)	
+Cousin	cousin (male)	
+Father	p�re	
+Mother	m�re	
+Dog	chienne (female)	
+Dog	chien (male)	
+Cat	chatte (female)	
+Cat	chat (male)	
