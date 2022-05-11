@@ -4,6 +4,8 @@
 #This program will accept user input and search through a 2D list to find its corresponding french word.
 #This program also allows you to add or remove translations to the english_to_french file.
 
+#Need to change O(N^2) algorithms to something faster and work on UX.
+
 
 from tkinter import *
 from tkinter import filedialog
